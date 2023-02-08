@@ -7,4 +7,4 @@ fs.readFile('./readme.txt')
     })
     .catch((err) => {
         console.error(err);
-    });
+    })
